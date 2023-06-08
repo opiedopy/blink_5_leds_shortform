@@ -1,6 +1,6 @@
 /*
   Blink 2-4-6-8-10  using arrays
-  by Isaac Corbell, May 30, 2023
+  by opiedopy, May 30, 2023
 
   Turns on 5 LEDs on for "led_delay" millisecond each, 
       then off for same amount, repeatedly.
